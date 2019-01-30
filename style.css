@@ -74,7 +74,12 @@ a:hover {
   padding: 0px 20px;
 }
 
-.contrast-color-text {
+.text-contrast-color {
   color: #FB9902;
+}
+
+.background-darker-color {
+  color: #347B98;
+  background-color: #110934;
 }
 
