@@ -14,6 +14,10 @@ body {
   text-align: justify;
 }
 
+.smaller {
+  font-size: 14px;
+}
+
 .container {
   background-color: #D4EDF7;
   width: 600px;
@@ -85,4 +89,7 @@ a:hover {
 
 .code {
   font-family: "Courier", monospace;
+  text-align: left;
+  display: flex;
+  justify-content: center;
 }
