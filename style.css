@@ -16,6 +16,7 @@ body {
 
 .smaller {
   font-size: 14px;
+  margin: 4px 0px;
 }
 
 .container {
@@ -92,4 +93,5 @@ a:hover {
   text-align: left;
   display: flex;
   justify-content: center;
+  margin: 30px 0px;
 }
